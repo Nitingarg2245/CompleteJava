@@ -10,7 +10,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class Main {
+public class Basics1_Static_keyword {
     public static void main(String[] args) {
         System.out.println(Math.PI);//here we directly accessed  the math class members
         System.out.println(Math.min(2,3));//here we directly accessed  the math class members
